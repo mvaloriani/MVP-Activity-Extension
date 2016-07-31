@@ -1,0 +1,28 @@
+{
+  "name": "MVP Activity Extention",
+  "description": "MVP Activity Extention is an extention you add to Microsoft Edge so you can easily submit community activities to the MVP website.",
+  "version": "1.0",
+  "author":"Matteo Valoriani",
+  
+  "permissions": [
+	"<all_urls>",
+    "activeTab"
+  ],
+
+  "browser_action": {
+	"default_title": "MVP Activity",
+    "default_icon": {
+		"38": "icon.png"
+		}	
+  },
+  "background": {
+    "scripts": ["script.js"],
+    "persistent": false
+  },
+
+  "icons": {
+    "48": "icon.png"
+  },  
+    
+  "manifest_version": 2
+}
