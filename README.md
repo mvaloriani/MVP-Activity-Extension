@@ -1,5 +1,5 @@
 # MVP-Activity-Extension
-Edge Extention for report MVP activity
+Edge Extension for report MVP activity
 
 MVP Activity Extension is an extension you add to Microsoft Edge so you can easily submit community activities to the MVP website.
 
